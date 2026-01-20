@@ -1,4 +1,12 @@
 ---
-title: Welcome to my blog
+title: Hi y'all
 ---
 
+# Testi
+testomate
+
+## Funny?
+ynnuf
+
+## Sad?
+das
